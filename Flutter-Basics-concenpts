@@ -1,0 +1,4 @@
+var input = stdin.readLineSync();
+// oru input kodukkan athum string ayyt akum
+var num = int.parse(input);
+// string ayyt kittiyathine integer akkan
